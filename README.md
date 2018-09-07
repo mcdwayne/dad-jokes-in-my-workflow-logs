@@ -5,7 +5,7 @@ This Pantheon Quicksilver script curls in a dad joke from https://icanhazdadjoke
 ## Instructions ##
 
 1. Add the dad-jokes-in-my-workflow-logs.php to the `private/scripts` directory of your code repository.
-2. Add a Quicksilver operation to your `pantheon.yml` to fire the script a deploy (see example below).
+2. Add a Quicksilver operation to your `pantheon.yml` to fire the script on event (see example below).
 3. Test a deploy out!
 
 You will want to use the [`terminus workflows:watch <site>`](https://pantheon.io/docs/terminus/commands/) command to see this in action
