@@ -49,3 +49,8 @@ workflows:
 ## example
 
 ![image of a screen shot of a terminal and a dad joke: What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!](https://i.imgur.com/ufQMevd.png)
+
+
+### This is an example repo
+No guarantee or warranty implied or given.  
+No, I will not support this.  
