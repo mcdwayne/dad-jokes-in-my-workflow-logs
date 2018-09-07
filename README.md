@@ -44,3 +44,8 @@ workflows:
           description: Put a dad joke in the workflow log after cache clear
           script: private/scripts/dad-jokes-in-my-workflow-logs.php
 ```
+
+
+## example
+
+![image of a screen shot of a terminal and a dad joke: What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!](https://i.imgur.com/ufQMevd.png)
