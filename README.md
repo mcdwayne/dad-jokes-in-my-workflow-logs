@@ -8,7 +8,7 @@ This Pantheon Quicksilver script curls in a dad joke from https://icanhazdadjoke
 2. Add a Quicksilver operation to your `pantheon.yml` to fire the script a deploy (see example below).
 3. Test a deploy out!
 
-You will want to use the [`terminus workflows watch`](https://pantheon.io/docs/terminus/commands/) command to see this in action
+You will want to use the [`terminus workflows:watch <site>`](https://pantheon.io/docs/terminus/commands/) command to see this in action
 
 ### Example `pantheon.yml` ###
 
