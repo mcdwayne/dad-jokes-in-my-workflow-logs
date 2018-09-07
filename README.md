@@ -4,7 +4,7 @@ This Pantheon Quicksilver script curls in a dad joke from https://icanhazdadjoke
 
 ## Instructions ##
 
-1. Add either the dad-jokes-in-my-workflow-logs.php to the `private/scripts` directory of your code repository.
+1. Add the dad-jokes-in-my-workflow-logs.php to the `private/scripts` directory of your code repository.
 2. Add a Quicksilver operation to your `pantheon.yml` to fire the script a deploy (see example below).
 3. Test a deploy out!
 
