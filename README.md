@@ -1,6 +1,6 @@
 # Dad Jokes In My Workflow Logs #
 
-This Pantheon Quicksilver script curls in a dad joke from https://icanhazdadjoke.com and echoes it into your Pantheon workflow logs.  
+This [Pantheon](https://pantheon.io/why-pantheon) [Quicksilver](https://pantheon.io/docs/quicksilver/) script curls in a dad joke from https://icanhazdadjoke.com and echoes it into your Pantheon workflow logs.  
 
 ## Instructions ##
 
